@@ -1,6 +1,6 @@
 # Code Smell Resolved 
 
-In this repository under, [here](https://github.com/ahmedfahad04/refactoring-workshop/blob/5d0c1efd14ce0153401dd347cdf6efdf62243441/java/src/main/java) we can find two packages. One of them contains the actual code
+In this repository under, [here](https://github.com/ahmedfahad04/refactoring-workshop/tree/master/java/src/main/java) we can find two packages. One of them contains the actual code
 and the other contains the Code Smell Resolved code. Therefore, we'll look up our solution in **codeSmellResolved**
 package. 
 
