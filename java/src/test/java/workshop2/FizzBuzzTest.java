@@ -1,9 +1,9 @@
-package workshop;
+package workshop2;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static workshop.FizzBuzz.say;
+import static workshop2.FizzBuzz.say;
 
 public class FizzBuzzTest {
     @Test
