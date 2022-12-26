@@ -1,6 +1,6 @@
 # Submitted by #
-Istiaq Ahmed Fahad
-BSSE 1204
+    Istiaq Ahmed Fahad
+    BSSE 1204
 
 # Code Smell Resolved #
 
