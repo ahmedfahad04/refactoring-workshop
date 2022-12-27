@@ -15,7 +15,7 @@ My answer will be documented in the following pattern:
 
 ## Fizzbuzz.java ## 
 
-1. **Long Method** [if-else ladder] 
+1. **Duplicate Code** [if-else ladder] 
 * => extract method `{line: 20}`
 
 ## PlainTextToHtmlConverter.java ## 
