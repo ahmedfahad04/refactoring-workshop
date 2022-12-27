@@ -24,8 +24,7 @@ My answer will be documented in the following pattern:
 * => We renamed the method to avoid using the comments. `{line 59, 65}`
 2. **Long Method** [the method doesn't necessarily cover one whole screen size, also contains switch case] 
 * => Extract method 'basicHtmlEncoder()' to 'encodeSourceText()' `{line: 17, 27}`
-3. **Black Sheep** [basicHtmlEncoder(), stashNextCharacterAndAdvanceThePointer, addANewLine, pushACharacterToTheOutput these method doesn't match to the family of
-PlainTextToHtmlConverter Class, rather they might be a part of another like HTMLEncoder Class]
+3. **Black Sheep** [basicHtmlEncoder(), stashNextCharacterAndAdvanceThePointer(), addANewLine(), pushACharacterToTheOutput() these method doesn't match to the family of PlainTextToHtmlConverter Class, rather they might be a part of another class like HTMLEncoder Class]
 * => Move all these to newly created HTMLEncoder class `{line: 9}`
 
 ## TriviaGame.java ##
